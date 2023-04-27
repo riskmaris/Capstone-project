@@ -12,7 +12,7 @@ const speakersDetails = [
   {
     id: 2,
     name: 'Mrs Angella Mubangizi.',
-    title: 'Proffesor | Kampala International University',
+    title: 'Proffesor Kampala International University',
     speakerImg: 'images/Dr.-Winifred-Kiryabwire-1.jpg',
     about:
       'KIU Business Desk: Sylvia Mulinge Appointed new CEO of MTN Uganda, Uganda.',
@@ -23,7 +23,7 @@ const speakersDetails = [
     title: ' Best Uganda Safari Tour.',
     speakerImg: 'images/image-6.png',
     about:
-      'CEO for Uganda Tourism Board | Responsible Tourism Company.',
+      'CEO for Uganda Tourism Board Responsible Tourism Company.',
   },
   {
     id: 4,
@@ -31,7 +31,7 @@ const speakersDetails = [
     title: 'Managing Director.',
     speakerImg: 'images/JAV_2500.jpg',
     about:
-      'The Shareholders, Board of Directors, Management and Staff of Karis Uganda Safaris | Uganda Limited.',
+      'The Shareholders, Board of Directors, Management and Staff of Karis Uganda Safaris Uganda Limited.',
   },
   {
     id: 5,
@@ -47,7 +47,7 @@ const speakersDetails = [
     title: 'Driver',
     speakerImg: 'images/JAV_2396.jpg',
     about:
-      'The Head of driving | Car maintaince and garage expert',
+      'The Head of driving Car maintaince and garage expert',
   },
 ];
 

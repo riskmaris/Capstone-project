@@ -173,11 +173,14 @@ header nav .two ul.active {
     background-size: cover;
     width: 100%;
     margin-top: 2rem;
+    /* background-position: center left; */
   }
 
   .main-content {
     padding-top: 20px;
-    text-align: center;
+    text-align: left;
+    width: fit-content;
+    margin: auto;
   }
   
   .about-content {
@@ -187,6 +190,7 @@ header nav .two ul.active {
   }
   
   .main-content .intro {
+    margin-top: 60px;
     color: #ec5242;
     font-size: 1.7rem;
     margin-bottom: 0.5rem;
@@ -216,13 +220,17 @@ header nav .two ul.active {
   
   .main-content .border {
     padding: 15px;
-    color: #272a31;
+    color: #999999;
     border: 3px solid #fff;
     font-weight: 700;
     margin-bottom: 1rem;
-    font-size: 17px;
+    /* margin-top: 30px; */
+    font-size: 18px;
     line-height: 1.7;
-    opacity: 0.6;
+    /* opacity: 0.6; */
+    width: fit-content;
+    margin: auto;
+    background-color: #f8f8f8;
   }
   
   .main-content .about-border {
@@ -500,7 +508,12 @@ header nav .two ul.active {
 .speakers-details {
   display: flex;
   gap: 25px;
+  
   /* flex-direction: column; */
+}
+
+.details {
+  margin-top: 30px;
 }
 
 .speakers-details > img {
@@ -677,10 +690,6 @@ header nav .two ul.active {
     height: 4rem;
   }
 
-  .value {
-    margin-top: 60px;
-  }
-
   .memories {
     font-size: 17px;
     font-weight: 70px;
@@ -831,7 +840,7 @@ header nav .two ul.active {
     grid-template-columns: 1fr 1fr;
     align-content: center;
     gap: 1.3rem;
-    margin: 3rem 0 6rem;
+    /* margin: 3rem 0 6rem; */
   }
 
   .launch-1,
