@@ -54,24 +54,25 @@ header nav .two {
   background: #fff;
 }
 
-header nav .two ul {
+/* header nav .two ul {
   display: none;
-}
+} */
 
 header nav .two ul a {
   font-weight: 500;
   color: #999;
 }
 
-header nav .two {
+/* header nav .two {
   background: #fff;
-}
+} */
 
-header nav .two {
+/* header nav .two {
   background: #3e3e3e;
-}
+} */
 
 header nav .two ul {
+  display: none;
   background: #fff;
   display: flex;
   flex-direction: column;
@@ -89,11 +90,12 @@ header nav .two ul.active {
   left: 0;
 }
 
-.nav-link {
+/* .nav-link {
   transition: 0.7s ease;
-}
+} */
 
 .nav-link {
+  transition: 0.7s ease;
   font-size: 1.5rem;
   font-weight: 300;
   color: #272a31;
