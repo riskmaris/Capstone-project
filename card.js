@@ -13,7 +13,7 @@ const speakersDetails = [
     id: 2,
     name: 'Mrs Angella Mubangizi.',
     title: 'Proffesor Kampala International University',
-    speakerImg: 'images/Dr.-Winifred-Kiryabwire-1.jpg',
+    speakerImg: 'images/JAV_2396.jpg',
     about:
       'KIU Business Desk: Sylvia Mulinge Appointed new CEO of MTN Uganda, Uganda.',
   },
@@ -55,8 +55,8 @@ function randomSpeaker() {
   speakers.innerHTML = speakersDetails
     .map(
       (speaker) => `
-         <div class="speakers-details">
-            <img src=${speaker.speakerImg} alt=""/>
+         <div class="speakers-details" id="card${speaker.id}">
+            <img id="speaker-img" src=${speaker.speakerImg} alt=""/>
             <div class="details">
               <h4>${speaker.name}</h4>
               <p class="title">${speaker.title}</p>
