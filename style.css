@@ -337,7 +337,6 @@ main {
   opacity: 0.1;
 }
 
-
 .prog-section p {
   color: #272a31;
   font-size: 1.2rem;
@@ -401,7 +400,6 @@ main {
   font-weight: 900;
   text-align: center;
 }
-
 
 .program {
   background: url('images/cross.svg');
@@ -693,7 +691,6 @@ footer {
 
 /* ------------Media Querry------------- */
 
-
 @media screen and (min-width: 768px) {
   .about-hide {
     display: none;
@@ -729,7 +726,7 @@ footer {
     height: 4rem;
   }
 
-  
+
 
   .memories {
     font-size: 17px;
