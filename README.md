@@ -29,10 +29,10 @@
 - [📝 License](#license)
 
 
-# 📖 [Popup Branch] <a name=Popup-Branch></a>
+# 📖 [Capstone Project] <a name=Capstone Project></a>
 
 
-**[Popup-Branch]** is a simple project built with html,  javascript and css showing responsiveness for desktop version and mobile version. It shows our accomplishments and skills as developers.
+**[Capstone Project]** is a simple project built with html,  javascript and css showing responsiveness for desktop version and mobile version. It shows accomplishments and skills as a developer.
 
 ## 🛠 Built With
 1. Html
@@ -60,13 +60,13 @@
 
 - Added index.html file
 - Added style.css file
-- Added images from figma
+- Added images.
 - Added a Javascript file
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 [Live Demo] Loading...
+## 🚀 Live Demo (https://riskmaris.github.io/Capstone-project/)
 
 <!-- GETTING STARTED -->
 
@@ -116,7 +116,7 @@ Open index.html using live server extension
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contributions:
-- Please feel free to contribute to this website because we are open for new changes and  skills that can make it even better.
+- Please feel free to contribute to this website because am open for new changes and  skills that can make it even better.
 
 
 ## 👥 Author <a name="author"></a>
@@ -126,7 +126,6 @@ Open index.html using live server extension
    
 
 - GitHub: [riskmaris](https://github.com/riskmaris)
- GitHub: [Zohra-Neda](https://github.com/Zohra-Neda)
 
 
 
