@@ -29,7 +29,7 @@ const speakersDetails = [
     id: 4,
     name: 'Maris Kapuka',
     title: 'Managing Director.',
-    speakerImg: 'images/JAV_2500.jpg',
+    speakerImg: 'images/image-6.png',
     about:
       'The Shareholders, Board of Directors, Management and Staff of Karis Uganda Safaris Uganda Limited.',
   },
